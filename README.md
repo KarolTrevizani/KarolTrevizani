@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7957d5&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Karoline+Trevizani;I'm+Software+Developer)](https://git.io/typing-svg)
 
 
-👋 Hey there! I'm Karol, a dedicated software developer at Angola Cables, specializing in backend development with Python and Django. I thrive on collaborating with teams to tackle challenging projects and am always eager to learn and grow in the realm of web development and server architecture.
+👋 Hey there! I'm Karol :)
 
 🚀 Currently, I'm sharpening my skills in web technologies and server design, seeking out opportunities to push boundaries and innovate in the digital space. Whether it's discussing backend technologies or brainstorming software design concepts, I'm always up for engaging conversations.
 
