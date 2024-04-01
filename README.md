@@ -9,7 +9,8 @@
 
 <div align="center" style="margin-bottom:200px">
   
-[![Karol's GitHub stats](https://github-readme-stats.vercel.app/api?username=karoltrevizani\&rank_icon=github&show_icons=true&theme=buefy&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Karol's GitHub stats](https://github-readme-stats.vercel.app/api?username=karoltrevizani\&rank_icon=github&show_icons=true&theme=buefy&hide_border=True)](https://github.com/anuraghazra/github-readme-stats) 
+<!--- ![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=karoltrevizani&theme=buefy&hide_border=True)--->
 
 </div>
 
@@ -49,9 +50,36 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karoltrevizani&repo=auto_control_api&theme=buefy&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karoltrevizani&repo=django_starter_pack&theme=buefy&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+
+<!---
+![](https://github-contributor-stats.vercel.app/api?username=karoltrevizani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+--->
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karoltrevizani&hide_progress=true&theme=buefy)
 --->
+<br>
+
+## Academic Background:
+
+[<img align="left" height="94px" width="94px" alt="UNIFOR" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnUcUeqnPb2oJI-R7CQqwfpaUVjhB6SKTG9g&usqp=CAU"/>](https://www.unifor.br/)
+**Analysis and Systems Development Undergraduate** \
+[**UNIFOR**](https://www.unifor.br/)  • Aug 2022 - In progress\
+Skills: `Agile Methodologies` `Software Architecture` `Professional Ethics`
+`Project Management` `Software Development` `Software Security` `Software Quality`
+
+[<img align="left" height="94px" width="94px" alt="Unichristus" src="https://declaracaoir.unichristus.edu.br/declaracaoIR/imagens/logo_uni.webp"/>](https://www.unichristus.edu.br/)
+**Master of Business Administration (MBA)** \
+[**Unichristus**](https://www.unichristus.edu.br/) • Jan 2020 - Jan 2022 \
+Accounting and Business/Management \
+Skills: `Strategic Planning` `Tax Planning`
+
+[<img align="left" height="94px" width="94px" alt="Estácio" src="https://estaciobrasilia.com.br/wp-content/uploads/2023/06/estacio-logo-1-2.png"/>](https://www.estacio.br/)
+**Bachelor's Degree in Accounting** \
+[**Estácio**](https://www.estacio.br/) • Feb 2015 - Jul 2019 \
+Skills: `Financial Accounting` `Auditing` `Taxation`
+
+<br>
 
 ## Contact me:
 <div>
