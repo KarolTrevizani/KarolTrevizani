@@ -47,7 +47,7 @@
 
 <div align="center" style="margin-bottom:200px">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karoltrevizani&repo=auto_control_api&theme=buefy&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karoltrevizani&repo=django_starter_pack&theme=buefy&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karoltrevizani&repo=auto_control_api&theme=buefy&hide_border=True)](https://github.com/karoltrevizani/auto_control_api)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karoltrevizani&repo=django_starter_pack&theme=buefy&hide_border=True)](https://github.com/karoltrevizani/django_starter_pack)   
 
 </div>
 
