@@ -20,26 +20,33 @@
 
 #### Main Stack:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>]([https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Glossary/Python))
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>]([https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>]([https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML))
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://getbootstrap.com/))
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=angular"/>](https://angular.io/quick-start)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://developer.mozilla.org/en-US/docs/Web/MySQL)
   [![Airflow](https://img.shields.io/badge/-Airflow-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAACAVBMVEXoPibmXEHuYkYAxtMAx9TwTTP/Sx3hOCCXjIDiOCHhNx8InPAAxv9hdaQGkuoEkPgCgvEBydYG0+AQyNQJzLEd8v8Mz9wAqkUAq0UCsIYArEUBeeoE5SUCvk4BeuoBeusCv08Cuk0AsEfgOCDjOSHjOSHjOSHiOSHhOCHfOCAAx9MAxdLfOCDjOSHkOSHjOSHjOyMAxtMAx9QAxtPeNyDjOSHkOSHnQin3aU0Ax9UAx9QAxtPiNBviOSHaPyv8bVDdgGcAx9QAx9QAxtMgqug7m8+/incIxNAAxdIKqPgKrf0Ax9QAxdEBfewCg/AAxtMAws4BeekBfO0CytcBxdIBe+sBfO4P3esO2eYBe+wBgOcDw3gN1MUP2dgBe+0BfO4Be+0EzWUD0FYBr0sArEUAp0IBfO0BfO4Be+0BdukDylQAskgArUYArEYAqUQBe+0Be+wBeOYArUYArUYArUYArUYArUYBeuoBeegAq0UArEUArEYArEYArEYArEYArEXkOSHlOSAAx9TkOCDoQimcY2vqRSz/cFEHtP8hquqxVlX2UDTjfmVOrq4Ax9UCg/ADhvECk/pJgK+ffnE4trkBfO4Be+4BlMcIrXoOw7AE1OMDzNkCy9gCnbgEz2QBvkkEunAP3N8Q4O8E1FUBtEkArEYGvn4AskgArUYArUX///+CCWXoAAAAgHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAInj2sKaWxYYiBOY+MM9EKDbDZP93UQOm9ALjfvfU5X+t1j09PyOS+T1UUPiuxIZyNg3XvnaPZz58fBLxPuFT9/6jQvb/osIRN39kw3ikAo8wPaYFH8QFFSRudHaf4Ujfm8AAACdSURBVAjXJcyxSgIBGADg/6uhQgjfIXDSwQgOqjNDAsFJRKLF0dWxN2qICBH06CQisMBAcInewqlZHW7+4HMG/EGFql7EK7+2NRzV6Owis65rvzlxTuvAHM1PJRLN7aEPV/Ht1KVG0f0vKaduwSZiRVdLFJp513cTx2Aq5+E6vrQxk2GQ/OCOnAlDjLvSiAUvRjzT5yJixaMnuC/yPQUrJDDTZ2+sAAAAAElFTkSuQmCC&logoColor=E43921)](https://dinhanhthi.com/airflow-k8s-101)
 
-
+#### Databases:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>]([https://developer.mozilla.org/en-US/docs/Web/MySQL](https://developer.mozilla.org/en-US/docs/Web/MySQL))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sqlite"/>]([https://www.sqlite.org/](https://www.sqlite.org/))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=supabase"/>]([https://supabase.com/](https://supabase.com/))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=firebase"/>]([https://firebase.google.com/](https://firebase.google.com/))
 
 #### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=docker"/>]([https://www.docker.com/](https://www.docker.com/))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=redis"/>]([[https://developer.mozilla.org/en-US/docs/Web/MySQL](https://redis.io/about/)]([https://developer.mozilla.org/en-US/docs/Web/MySQL](https://redis.io/about/)))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>]([https://react.dev/](https://react.dev/))
 
 
 #### Tools:
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gitlab"/>](https://about.gitlab.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>]([https://code.visualstudio.com/](https://code.visualstudio.com/))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>]([https://github.com/](https://github.com/))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>]([https://git-scm.com/](https://git-scm.com/))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gitlab"/>]([https://about.gitlab.com/](https://about.gitlab.com/))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=obsidian"/>]([https://obsidian.md/](https://obsidian.md/))
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vim"/>]([https://www.vim.org/](https://www.vim.org/))
 
 <br>
 
